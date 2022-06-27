@@ -1,0 +1,27 @@
+body{
+    background-color:darkgrey;
+}
+
+h1{
+    text-align: center;
+}
+
+.grid-even-columns{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+}
+
+.window{
+    font-size: 20px;
+    text-align: justify;
+    margin:2px;
+    padding: 3px;
+    border-style: solid;
+    border-radius:5px;
+}
+
+.window:hover {
+    color: rgb(10,10,10);
+    background-color:rgb(159,159,159);
+}
