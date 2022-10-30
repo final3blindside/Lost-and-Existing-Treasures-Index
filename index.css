@@ -49,6 +49,7 @@ li a:hover:not(.active){
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 
