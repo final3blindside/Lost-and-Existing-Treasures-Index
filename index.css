@@ -47,6 +47,10 @@ li a:hover{
     background-color: skyblue;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 .grid-even-columns{
     display: grid;
